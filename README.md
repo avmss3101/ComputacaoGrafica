@@ -1,0 +1,2 @@
+# ComputacaoGrafica
+OpenGL, FreeGlut, Glew
